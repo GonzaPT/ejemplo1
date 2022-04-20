@@ -10,7 +10,7 @@ public class helloWorld {
     public String holaMundo() {
         int b = 3;
         int c = 1;
-        return "Hola Mundo, soy una aplicacion web super simple: " + (b + 4 - c);
+        return "Hola Mundo, soy una aplicacion web super simple: " + (b + 4 - 14 + c);
     }
 
 }
